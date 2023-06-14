@@ -16,3 +16,5 @@ Pratique com projetos de código aberto: O Flutter possui uma comunidade ativa q
 Mantenha-se atualizado: A tecnologia está sempre evoluindo, e o Flutter não é exceção. Certifique-se de acompanhar as atualizações e novidades do Flutter, pois novos recursos e melhores práticas podem surgir regularmente. Leia a documentação oficial do Flutter, siga blogs relevantes, assista a palestras e participe de conferências para estar atualizado sobre as tendências e avanços no ecossistema do Flutter.
 
 Lembre-se de que a aprendizagem eficaz requer tempo, prática e perseverança. Com o tempo, você ganhará confiança em Flutter e será capaz de desenvolver aplicativos incríveis.
+
+OLA EU SOU UMA NOVA LINHA
